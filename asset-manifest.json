@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ApplyforAll/static/css/main.a4ee45b2.css",
+    "main.js": "/ApplyforAll/static/js/main.452ea626.js",
+    "static/js/787.2a6c56ff.chunk.js": "/ApplyforAll/static/js/787.2a6c56ff.chunk.js",
+    "static/media/lums.jpg": "/ApplyforAll/static/media/lums.78918c05be463904c84f.jpg",
+    "static/media/apply.png": "/ApplyforAll/static/media/apply.4f6af7c0bb7fdf965f51.png",
+    "static/media/fast.jpg": "/ApplyforAll/static/media/fast.256e5c87a605ea90be93.jpg",
+    "static/media/ucp.jpg": "/ApplyforAll/static/media/ucp.8c94ce268a50b90c582d.jpg",
+    "static/media/facebook.png": "/ApplyforAll/static/media/facebook.84f50ea3f04296c3988b.png",
+    "static/media/nust.jpg": "/ApplyforAll/static/media/nust.e422edd860d32f1ab8cb.jpg",
+    "static/media/iqra.jpg": "/ApplyforAll/static/media/iqra.79bf9b97dc5549eae894.jpg",
+    "static/media/gmail.png": "/ApplyforAll/static/media/gmail.842582831854fac6c15d.png",
+    "static/media/linkedin.png": "/ApplyforAll/static/media/linkedin.400ad1de917ed4d4ac24.png",
+    "static/media/instagram.png": "/ApplyforAll/static/media/instagram.dcb0ab84e221be330fc0.png",
+    "static/media/twitter.webp": "/ApplyforAll/static/media/twitter.e8e5104606b1521d554a.webp",
+    "index.html": "/ApplyforAll/index.html",
+    "main.a4ee45b2.css.map": "/ApplyforAll/static/css/main.a4ee45b2.css.map",
+    "main.452ea626.js.map": "/ApplyforAll/static/js/main.452ea626.js.map",
+    "787.2a6c56ff.chunk.js.map": "/ApplyforAll/static/js/787.2a6c56ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4ee45b2.css",
+    "static/js/main.452ea626.js"
+  ]
+}
